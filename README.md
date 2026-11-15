@@ -92,25 +92,6 @@ For the top candidates:
 - Interface and core classifications depend on the chosen thresholds.
 - Variants in the repeat-expansion region (non-coding) are outside the scope of this analysis.
 
-## Repository structure
-
-```
-.
-├── csw_variant_mapping.ipynb    # full analysis notebook (Colab)
-├── README.md
-├── data/                        # downloaded structure, variant tables
-├── figures/                     # summary figure, ChimeraX script
-└── docs/                        # write-up
-```
-
-## References
-
-*Add after reading, including the structure papers for the PDB entry you use and the relevant publications from the Joiner Lab.*
-
 ## Tools and data sources
 
 UniProt, RCSB PDB, PDBe SIFTS, EBI Proteins API, AlphaFold Database (AlphaMissense annotations), Biopython, pandas, matplotlib, py3Dmol, UCSF ChimeraX.
-
-
-
-This project was inspired by the research of the Joiner Lab (Department of Chemistry, University of Cincinnati) on the structure and function of protein complexes in organelle homeostasis and neurodegeneration. It is an independent project and is not affiliated with the lab.
