@@ -1,4 +1,4 @@
-# Structural Mapping of ALS/FTD-Relevant Missense Variants on the C9orf72–SMCR8–WDR41 Arf GAP Complex
+# Mapping ALS/FTD-Relevant Missense Variants on the C9orf72–SMCR8–WDR41 Arf GAP Complex
 
 A computational survey that maps missense variants in *C9orf72*, *SMCR8* and *WDR41* onto cryo-EM structures of the C9orf72–SMCR8–WDR41 (CSW) complex. The goal is to identify residues at assembly and GTPase-binding interfaces and to propose biochemical experiments to test them.
 
